@@ -1,2 +1,3 @@
 # Trabalho-de-bootcamp-
 Repositório criado para guardar os trabalhos, atividades e códigos feitos durante o bootcamp, usando para aprendizado, prática e organização dos projetos.
+Este repositório reúne os conteúdos, atividades e projetos realizados ao longo do bootcamp. O objetivo é organizar os exercícios práticos, exemplos de códigos e trabalhos desenvolvidos durante as aulas, acompanhando a evolução do aprendizado em programação e tecnologia. Os arquivos presentes aqui servem como prática dos conteúdos estudados e também como forma de registrar o desenvolvimento das atividades propostas no curso.
